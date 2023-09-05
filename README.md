@@ -1,6 +1,6 @@
 ## FDSFE_MMustapha
 
--what is the reason why you decided to take the class?
+- What is the reason why you decided to take the class?
 I decided to take this class becasuse I had some exposure to machine learning over the summer and I would love to build on that
 
 - What do you hope to learn the most
