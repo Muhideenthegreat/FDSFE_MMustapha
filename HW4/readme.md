@@ -4,9 +4,9 @@
   The homework was about coming up with hypothesis for differnt scenarios in a population dataset, and using various test methods to check if our hpothesis is right or wrong. 
 
 - what you learned (one or two may take home points for you from doing the exercise. Can be the analytical aspects or some practical method to do things) <br>
- -I learned how to come up with a NULL and Alternate hypothesis
- -I learned how to use different tests to check accuracy of conclusions
- -I learned how to normalize different samples
+  - I learned how to come up with a NULL and Alternate hypothesis
+  - I learned how to use different tests to check accuracy of conclusions
+  - I learned how to normalize different samples
 
 - who you worked with<br>
   I worked with Ademidun Adesola
