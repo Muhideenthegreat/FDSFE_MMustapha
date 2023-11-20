@@ -10,9 +10,9 @@ The graph above follows all of Tufte's rules.
 - it has graphical integrity.
 
 ## Bad Plot:
-![journal pone 0292077 g002](https://github.com/Muhideenthegreat/FDSFE_MMustapha/assets/73912076/e4ce8749-1d69-4ffa-bbee-7574fbd6cac3)
+<img width="768" alt="Screenshot 2023-11-20 at 3 36 53 PM" src="https://github.com/Muhideenthegreat/FDSFE_MMustapha/assets/73912076/277d9880-cab7-459f-b322-d81687c175c2">
 
 - The axes are not clearly labeled, it is not clear what the x-axis and y-axis represent.
-- The data points are not evenly spaced, this makes it difficult to compare the values of the data points.
-- The axes are not scaled correctly. The y-axis is scaled much larger than the x-axis, which makes it appear as if the y-values are changing more rapidly than they actually are.
+- The data points are not evenly spaced(clustered), this makes it difficult to compare the values of the data points.
+- The axes are not scaled correctly. 
 - The symbols used to represent the data points are too large and not aesthetically pleasing. The colors and symbols are garish and unpleasant to look at.
