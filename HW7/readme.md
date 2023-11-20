@@ -14,5 +14,6 @@ The graph above follows all of Tufte's rules.
 
 - The x-axis is not labeled. It is not clear what the x-axis represents.
 - The data points are not evenly spaced(cluttered), this makes it difficult to compare the values of the data points.
-- The axes are not scaled correctly. 
+- The axes are not scaled correctly.
+- The plot exceeds the labelled y-axis, making interpretation difficult
   
